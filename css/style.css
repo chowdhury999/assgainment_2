@@ -1,0 +1,23 @@
+body{
+	background: #efefef;
+	margin: 0;
+}
+	table
+	{
+		border-color: #e6e6e6;
+		border-collapse: collapse;
+		margin: auto;
+		width: 80%;
+		box-shadow: 5px 5px 20px #5f5f5f7d;
+		margin-top: 25px;
+	}
+	tr{}
+	th{
+		background: #1768a2;
+		color: white;
+	}
+	td{
+		background: #187bc194;
+		font-size: 15px;
+		padding: 8px;
+	}
